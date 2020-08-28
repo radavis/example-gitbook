@@ -33,3 +33,4 @@ $ open https://YOUR_USERNAME.github.io/example-gitbook
 * [GitBook on npmjs.com](https://www.npmjs.com/package/gitbook)
 * [GitBook cli documentation](https://gitbookio.gitbooks.io/docs-toolchain/)
 * [GitBook Documentation](https://gitbookio.gitbooks.io/documentation/index.html)
+* [azu/gitbook-plugin-include-codeblock usage](https://github.com/azu/gitbook-plugin-include-codeblock#usage)
